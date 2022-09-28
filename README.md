@@ -15,3 +15,10 @@ Parth Sindhu. This repo is a clone of <https://github.com/miguelgrinberg/flasky>
 # Activity 3
 
 ![example](images/act3.png)
+
+# Activiy 4
+
+![example](images/lab2act4_1.png)
+![example](images/lab2act4_2.png)
+![example](images/lab2act4_3.png)
+![example](images/lab2act4_4.png)
